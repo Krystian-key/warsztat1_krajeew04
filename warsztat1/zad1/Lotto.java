@@ -4,11 +4,9 @@ import java.util.*;
 
 public class Lotto {
     private static Lotto zad2;
-
     public static void main(String[] args) {
 
         System.out.println("witamy w symulatorze lotto, podaj swoje szczęśliwe liczby");
-
         Integer[] input = new Integer[6];
         int[] tabLosu = new int[6];
 
@@ -23,7 +21,6 @@ public class Lotto {
         System.out.println("Gratulacje trafiłeś " + sprawdzanie(tabLosu, input) + " z 6 liczb.");
 
     }
-
     public static void lotto(Integer[] input) {
         Scanner scan = new Scanner(System.in);
 
@@ -43,10 +40,7 @@ public class Lotto {
             System.out.println("Podaj liczbę całkowitą.");
             lotto(input);
         }
-
     }
-
-
     public static void losowanie(int[] los) {
         Integer[] arr = new Integer[49];
         for (int i = 0; i < arr.length; i++) {
@@ -56,10 +50,7 @@ public class Lotto {
         for (int i = 0; i < los.length; i++) {
             los[i] = arr[i];
         }
-
-
     }
-
     public static int sprawdzanie(int[] los, Integer[] input) {
         int result = 0;
         for (int value : input) {
@@ -70,12 +61,6 @@ public class Lotto {
             }
         }
 
-
         return result;
-
     }
-
-
 }
-
-
