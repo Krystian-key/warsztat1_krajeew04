@@ -1,10 +1,9 @@
 package warsztat1.zad1;
 
-import java.util.Arrays;
+
 import java.util.Random;
 import java.util.Scanner;
 
-// 2 D 10 + 10
 public class KostkaDoGry {
     public static void main(String[] args) {
         System.out.println("Aby zagrać wpisz rzuć + typ kostki");

@@ -17,7 +17,7 @@ public class WordToFInd {
 
     public static void main(String[] args) {
 
-        String[] excludedWords = {"śmierć", "koronawirus", "dokładna", "zakazy", "lekarzy", "zakażonych","ponieważ"};
+        String[] excludedWords = {"śmierć", "koronawirus", "dokładna", "zakazy", "lekarzy", "zakażonych", "ponieważ"};
 
         Connection connect = Jsoup.connect("http://www.onet.pl/");
 
