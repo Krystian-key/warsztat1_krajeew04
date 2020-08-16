@@ -1,4 +1,4 @@
-# Hello There, Im Krystian Kluczkiewicz here below You will find some informations about my application! 👋
+## Hello There, Im Krystian Kluczkiewicz here below You will find some informations about my application! 👋
 
 ## About Aplication:
 ### I have created five different small games which are:
