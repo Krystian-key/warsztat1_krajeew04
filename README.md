@@ -1,7 +1,7 @@
 # Hello There, Im Krystian Kluczkiewicz here below You will find some informations about my application! 👋
 
 ## About Aplication:
-### - I have created five different small games which are:
+### I have created five different small games which are:
 #### - A game of guessing computer numbers. 
 #### - Lotto simulator. 
 #### - A game of guessing my numbers by computer. 
@@ -10,7 +10,7 @@
 
 
 ## How to run?
-#### - Fork and Clone my project and then Simply play by using terminal!
+#### - Fork and Clone my project and then Simply play by using terminal and have fun!
 
 
 ## Languages and Tools Used: 
